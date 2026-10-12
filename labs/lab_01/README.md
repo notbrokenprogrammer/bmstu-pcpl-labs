@@ -25,4 +25,8 @@ python3 root_main.py 1 -2 1
 python3 root_main.py
 ```
 
+## Отчёт
+
+[Скачать отчёт в формате Word](Следнев_ДК_ИУ5-33Б_Лаб1_ПиКЯП.docx)
+
 [Задание курса](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_intro) · [← Все работы](../../README.md)
